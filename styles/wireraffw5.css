@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "MemphisRiver";
+    src: url(fonts/MemphisRiver.ttf);
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("");
+    background-position: no-repeat;
+    background-image: 100%;
+    background-color: gold;
+    background-size: contain 0;
+}
+
+h1 {
+    font-size: 6em;
+}
+
+h2 {}
+
+h1,
+h2 {
+    font-family: "memphisRiver", sans-serif;
+    margin: 0;
+    color: darkgoldenrod;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    max-width: 50%;
+    text-align: center;
+    color: chartreuse;
+}
