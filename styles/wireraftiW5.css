@@ -1,0 +1,13 @@
+body {
+    background-image: url("");
+    background-position: no-repeat;
+    background-image: 100%;
+    background-color: gold;
+    background-size: contain 50%;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
